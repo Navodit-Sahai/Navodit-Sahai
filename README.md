@@ -1,16 +1,124 @@
-## Hi there 👋
+# Hi there, I'm Navodit Sahai 👋
 
-<!--
-**Navodit-Sahai/Navodit-Sahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Enthusiast | Model-obsessed | Vision-driven |
 
-Here are some ideas to get you started:
+AI tinkerer obsessed with building intelligent systems that actually work. I'm that person who goes from "what if?" to working prototype – whether it's training Vision Transformer from scratch, coding face detection from scratch, or creating agentic AI that takes meeting notes or plans a trip so you don't have to.
+My playground spans computer vision, generative AI, agentic AI and multi-modal systems. I love the entire journey: breaking down complex models, understanding what makes them tick, then building something useful. From making AI assistants that can "see" and speak to designing career planners, I'm all about turning ML theory into real-world impact.
+Currently exploring the wild world of agentic AI and pushing what's possible with Python, deep learning, and way too much coffee.
+Magic happens when curiosity meets code ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Navodit-Sahai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navodit-sahai-491aa032a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahainavodit781@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries:**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**Tools & Platforms:**
+
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navodit-Sahai&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navodit-Sahai&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navodit-Sahai&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Navodit-Sahai&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ [Agentic Trip Planner](https://github.com/Navodit-Sahai/Agentic-Trip-Planner)
+Intelligent travel planning agent that creates personalized itineraries using AI-powered recommendations and real-time data.
+
+### 📝 [Agentic Meeting Notesmaker](https://github.com/Navodit-Sahai/Agentic-meeting-notesmaker)
+AI agent that automatically generates comprehensive meeting notes, action items, and summaries so you never miss a detail.
+
+### 👁️ [Vision Transformer](https://github.com/Navodit-Sahai/Vision-Transformer)
+Implementation of state-of-the-art Vision Transformer (ViT) architecture for image classification and computer vision tasks.
+
+### 🏥 [MediClaim](https://github.com/Navodit-Sahai/MediClaim)
+Streamlining medical claim processing with intelligent automation and document analysis.
+
+### 👤 [Face Detection from Scratch](https://github.com/Navodit-Sahai/Face-Detection-from-scratch)
+Building face detection algorithms from the ground up to understand the core fundamentals of computer vision.
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Navodit-Sahai&theme=react-dark&hide_border=true)
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  
+**Thanks for visiting! Let's build something amazing together 🚀**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Navodit-Sahai&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
