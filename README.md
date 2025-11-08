@@ -2,7 +2,7 @@
 
 ## AI Enthusiast | Model-obsessed | Vision-driven |
 
-AI tinkerer obsessed with building intelligent systems that actually work. I'm that person who goes from "what if?" to working prototype – whether it's training Vision Transformer from scratch, coding face detection from scratch, or creating agentic AI that takes meeting notes or plans a trip so you don't have to.
+AI tinkerer obsessed with building intelligent systems that actually work. I'm that person who goes from "what if?" to working prototype – whether it's training Vision Transformer from scratch, coding face detection from scratch, or creating an AI agent that takes meeting notes or plans a trip so you don't have to.
 My playground spans computer vision, generative AI, agentic AI and multi-modal systems. I love the entire journey: breaking down complex models, understanding what makes them tick, then building something useful. From making AI assistants that can "see" and speak to designing career planners, I'm all about turning ML theory into real-world impact.
 Currently exploring the wild world of agentic AI and pushing what's possible with Python, deep learning, and way too much coffee.
 Magic happens when curiosity meets code ✨
