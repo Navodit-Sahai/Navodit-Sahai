@@ -60,6 +60,7 @@ Magic happens when curiosity meets code ✨
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -81,6 +82,7 @@ Magic happens when curiosity meets code ✨
 ![Navodit's Trophies](https://github-profile-trophy.vercel.app/?username=Navodit-Sahai&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
+>
 
 ---
 
