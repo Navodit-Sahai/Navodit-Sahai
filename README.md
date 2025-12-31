@@ -86,20 +86,29 @@ Magic happens when curiosity meets code ✨
 
 ## 🚀 Featured Projects
 
+### 🎬 [Agentic AI Video Generator](https://github.com/Navodit-Sahai/Agentic-YT-Shorts-Maker)
+End-to-end cinematic video pipeline with AI-powered script generation, image creation, text-to-speech, and automated video assembly with effects.
+
+### 🤖 [AmbedkarGPT — Hybrid RAG System](https://github.com/Navodit-Sahai/AmbedkarGPT-2)
+Advanced RAG system combining semantic chunking, knowledge graphs, and dual-layer vector search for context-grounded Q&A.
+
+### 📄 [AI Resume Builder](https://github.com/Navodit-Sahai/AI-Powered-ResumeBuilder)
+Intelligent resume enhancement tool with ATS scoring, multiple professional templates, and AI-powered content optimization.
+
+### 📱 [Agentic Post Generator](https://github.com/Navodit-Sahai/Agentic-Post-Generator)
+Automated social media content creation with face-consistent imagery, AI-enhanced prompts, and scheduled batch processing.
+
 ### ✈️ [Agentic Trip Planner](https://github.com/Navodit-Sahai/Agentic-Trip-Planner)
-Intelligent travel planning agent that creates personalized itineraries using AI-powered recommendations and real-time data.
+Multi-agent system for intelligent travel planning with personalized itineraries using LangGraph and real-time recommendations.
 
-### 📝 [Agentic Meeting Notesmaker](https://github.com/Navodit-Sahai/Agentic-meeting-notesmaker)
-AI agent that automatically generates comprehensive meeting notes, action items, and summaries so you never miss a detail.
+### 📝 [Agentic Meeting Notes Maker](https://github.com/Navodit-Sahai/Agentic-meeting-notesmaker)
+AI agent that automatically generates comprehensive meeting notes, action items, and summaries from speech-to-text transcriptions.
 
-### 👁️ [Vision Transformer](https://github.com/Navodit-Sahai/Vision-Transformer)
-Implementation of state-of-the-art Vision Transformer (ViT) architecture for image classification and computer vision tasks.
+### 👁️ [Vision Transformer from Scratch](https://github.com/Navodit-Sahai/VisionTransformer-from-scratch)
+Complete implementation of Vision Transformer (ViT) architecture with patch embeddings and multi-head self-attention achieving 94.88% validation accuracy.
 
-### 🏥 [MediClaim](https://github.com/Navodit-Sahai/MediClaim)
-Streamlining medical claim processing with intelligent automation and document analysis.
-
-### 👤 [Face Detection from Scratch](https://github.com/Navodit-Sahai/Face-Detection-from-scratch)
-Building face detection algorithms from the ground up to understand the core fundamentals of computer vision.
+### 🎵 [Capuchin Bird Audio Classification](https://github.com/Navodit-Sahai/AudioClassification)
+CNN-based audio classifier using STFT spectrogram features for robust bird call detection in real-world forest recordings.
 
 ---
 
@@ -107,7 +116,7 @@ Building face detection algorithms from the ground up to understand the core fun
 
 <div align="center">
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Navodit-Sahai&theme=react-dark&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Navodit-Sahai&theme=react-dark&hide_border=true)
 
 </div>
 
