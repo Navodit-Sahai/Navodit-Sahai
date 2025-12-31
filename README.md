@@ -68,7 +68,7 @@ Magic happens when curiosity meets code ✨
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navodit-Sahai&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Navodit-Sahai&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navodit-Sahai&theme=radical&hide_border=true)
 
 </div>
 
