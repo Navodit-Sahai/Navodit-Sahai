@@ -63,12 +63,12 @@ Magic happens when curiosity meets code ✨
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navodit-Sahai&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navodit-Sahai&theme=radical&hide_border=true)
+![Navodit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navodit-Sahai&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navodit-Sahai&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navodit-Sahai&theme=radical&hide_border=true)
 
 </div>
 
@@ -77,8 +77,8 @@ Magic happens when curiosity meets code ✨
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Navodit-Sahai&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+![Navodit's Trophies](https://github-profile-trophy.vercel.app/?username=Navodit-Sahai&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -105,7 +105,11 @@ Building face detection algorithms from the ground up to understand the core fun
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Navodit-Sahai&theme=react-dark&hide_border=true)
+<div align="center">
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Navodit-Sahai&theme=react-dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -120,7 +124,7 @@ Building face detection algorithms from the ground up to understand the core fun
 ---
 
 <div align="center">
-  
+
 **Thanks for visiting! Let's build something amazing together 🚀**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Navodit-Sahai&color=blueviolet&style=flat-square&label=Profile+Views)
