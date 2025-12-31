@@ -64,11 +64,11 @@ Magic happens when curiosity meets code ✨
 
 <div align="center">
 
-![Navodit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navodit-Sahai&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Navodit-Sahai&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navodit-Sahai&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navodit-Sahai&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navodit-Sahai&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=Navodit-Sahai&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -78,7 +78,7 @@ Magic happens when curiosity meets code ✨
 
 <div align="center">
 
-![Navodit's Trophies](https://github-profile-trophy.vercel.app/?username=Navodit-Sahai&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=Navodit-Sahai&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 
 </div>
 
